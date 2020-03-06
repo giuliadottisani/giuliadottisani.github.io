@@ -1,4 +1,8 @@
 
+---
+driveId: 1B25krMNXBlHVX46JQT32EOtrJLTU86p-/preview
+---
+
 
 **very short bio**  
 
@@ -7,6 +11,10 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 **articles in journals**
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_. [DOI 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1){:target="_blank"}.
+
+
+{% include googleDrivePlayer.html id=page.driveId %}
+
 
 Giulia M. Dotti Sani and Cristiano Vezzoni (2019) The European Social Survey: A telescope for the social sciences. _Polis_, 2019/02, 179-184. [DOI: 10.1424/94244](https://www.rivisteweb.it/doi/10.1424/94244){:target="_blank"}.
 
