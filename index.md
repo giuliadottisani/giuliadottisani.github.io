@@ -12,6 +12,8 @@ Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General 
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
+
+
 Giulia M. Dotti Sani and Cristiano Vezzoni (2019) The European Social Survey: A telescope for the social sciences. _Polis_, 2019/02, 179-184. [DOI: 10.1424/94244](https://www.rivisteweb.it/doi/10.1424/94244){:target="_blank"}.
 
 Mario Quaranta and Giulia M. Dotti Sani (2018). Left behind? Gender gaps in political engagement over the life course in 27 European countries. _Social Politics_, 25, 2, 254–286. [DOI: doi.org/10.1093/sp/jxy005](https://academic.oup.com/sp/article/25/2/254/4851034){:target="_blank"}.
