@@ -1,7 +1,3 @@
----
-driveId: 1B25krMNXBlHVX46JQT32EOtrJLTU86p-/preview
----
-
 **very short bio**  
 
 I am an Assistant Professor in the Department of Social and Political Sciences at the University of Milano. I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSaniCV.pdf).
@@ -10,7 +6,9 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_. [DOI 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1){:target="_blank"}.
 
-{% include googleDrivePlayer.html id=page.driveId %}
+see our video abstract [here](adoption-video) 
+
+
 
 <p>&nbsp;</p>
 
