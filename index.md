@@ -6,7 +6,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_. [DOI 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1){:target="_blank"}.
 
-see our video abstract [here](adoption-video) 
+see our video abstract [here]({% Video/adoption-video %})
 
 
 
