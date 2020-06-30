@@ -85,13 +85,6 @@ Giulia M. Dotti Sani, Cristina Solera and Mara A. Yerkes (2015) National attitud
 
 **ongoing projects**
 
-Giulia M. Dotti Sani and Mario Quaranta. Attitudes towards the right to adopt of gay male and lesbian couples: A cross-national comparison of 17 countries. (Resubmitted Dec 2019).
-
-Nevena Kulic and Giulia M. Dotti Sani. Within-couple distribution of resources: A review of extant studies and avenues for future research (R&R Jan 2020).
-
-Giulia M. Dotti Sani and Matteo Luppi. How long is too long? Long-term effects of maternity-related job interruptions on mothers' income in ten European countries (Resubmitted Dec 2019).
-
-Giulia M. Dotti Sani. Work-family arrangements and parental childcare time in Italy, 1988-2014. (Resubmitted Dec 2019).
 
 Giulia M. Dotti Sani and Mario Quaranta. The diffusion of positive attitudes towards homosexuality in Europe: Mapping changes in individual heterogeneities across time and space
 
