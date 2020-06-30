@@ -4,6 +4,8 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
+Nevena Kulic and Giulia M. Dotti Sani (accepted for publication). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociology_.
+
 Giulia M. Dotti Sani and Matteo Luppi (accepted for publication). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_.
 
 Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani et al (2020). Investigating the social, economic and political consequences of the COVID-19 pandemic: A rolling cross-section approach. _Survey Research Methods_, 14(2).[DOI: https://doi.org/10.18148/srm/2020.v14i2.7745] (https://ojs.ub.uni-konstanz.de/srm/article/view/7745){:target="_blank"}.
