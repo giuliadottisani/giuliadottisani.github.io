@@ -6,12 +6,12 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 Giulia M. Dotti Sani and Matteo Luppi (accepted for publication). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_.
 
-Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani et al (accepted for publication). Investigating the social, economic and political consequences of the COVID-19 pandemic: A rolling cross-section approach. _Survey Research Methods_, 14(2).
+Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani et al (2020). Investigating the social, economic and political consequences of the COVID-19 pandemic: A rolling cross-section approach. _Survey Research Methods_, 14(2).[DOI: https://doi.org/10.18148/srm/2020.v14i2.7745] (https://ojs.ub.uni-konstanz.de/srm/article/view/7745){:target="_blank"}.
 
 Giulia M. Dotti Sani. (forthcoming). Is it "good" to have a stay at home mom? Parental Childcare Time and Work–Family Arrangements in Italy, 1988–2014. _Social Politics_.
 
 
-Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_. [DOI 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1){:target="_blank"}. See our [**video abstract here**]({% link Video/adoption-video.md %}){:target="_blank"}.
+Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_. [DOI: 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1){:target="_blank"}. See our [**video abstract here**]({% link Video/adoption-video.md %}){:target="_blank"}.
 
 Giulia M. Dotti Sani and Cristiano Vezzoni (2019) The European Social Survey: A telescope for the social sciences. _Polis_, 2019/02, 179-184. [DOI: 10.1424/94244](https://www.rivisteweb.it/doi/10.1424/94244){:target="_blank"}.
 
