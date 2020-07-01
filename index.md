@@ -4,7 +4,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
-Nevena Kulic and Giulia M. Dotti Sani (accepted for publication). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociology_.
+Nevena Kulic and Giulia M. Dotti Sani (accepted for publication). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociologia_.
 
 Giulia M. Dotti Sani and Matteo Luppi (accepted for publication). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_.
 
