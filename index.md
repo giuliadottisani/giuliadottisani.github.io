@@ -8,7 +8,7 @@ Nevena Kulic and Giulia M. Dotti Sani (accepted for publication). Within-couple 
 
 Giulia M. Dotti Sani and Matteo Luppi (accepted for publication). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_.
 
-Giulia M. Dotti Sani. (forthcoming). Is it "good" to have a stay at home mom? Parental childcare time and work–family arrangements in Italy, 1988–2014. _Social Politics_.
+Giulia M. Dotti Sani (2020). Is it "good" to have a stay at home mom? Parental childcare time and work–family arrangements in Italy, 1988–2014. _Social Politics_. Online first. [DOI: 10.1093/sp/jxaa014](https://academic.oup.com/sp/article-abstract/doi/10.1093/sp/jxaa014/5874663?redirectedFrom=fulltext){:target="_blank"}.
 
 Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani et al (2020). Investigating the social, economic and political consequences of the COVID-19 pandemic: A rolling cross-section approach. _Survey Research Methods_, 14(2). [DOI: https://doi.org/10.18148/srm/2020.v14i2.7745](https://ojs.ub.uni-konstanz.de/srm/article/view/7745){:target="_blank"}.
 
