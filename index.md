@@ -66,6 +66,10 @@ Giulia M. Dotti Sani, Manuela Naldini, Trudie Knijn, Cristina Solera, Mara A. Ye
 
 **book reviews**
 
+Giulia M. Dotti Sani (2020). Review of Studies in the Sociology
+of Population. International perspectives, by Jon Anson, Walter Bartl, Andrzej Kulczycki (a cura di), , Heildelberg, Springer, 2019, 373 pp. _Quaderni di Sociologia_ 82.
+
+
 Giulia M. Dotti Sani (2014). Review of Aging Populations, Globalization and the Labor Market. Comparing Late Working Life and Retirement in Modern Societies, by H.P. Blossfeld, S. Buchholz and K. Kurz (Eds.), International Sociology Review of Books, 29: 431
 
 Giulia M. Dotti Sani (2014). Review of Gender and the European Labour Market. F. Bettio, J. Plantenga and M. Smith (Eds.), Routledge, Polis 3, 441-458
