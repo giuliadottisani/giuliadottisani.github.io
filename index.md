@@ -4,9 +4,9 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
-Nevena Kulic and Giulia M. Dotti Sani (2020). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociologia_. Online first. [DOI: 10.1423/97642](https://www.rivisteweb.it/issn/0486-0349){:target="_blank"}.
-
 Giulia M. Dotti Sani and Matteo Luppi (accepted for publication). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_.
+
+Nevena Kulic and Giulia M. Dotti Sani (2020). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociologia_. Online first. [DOI: 10.1423/97642](https://www.rivisteweb.it/issn/0486-0349){:target="_blank"}.
 
 Giulia M. Dotti Sani (2020). Is it "good" to have a stay at home mom? Parental childcare time and work–family arrangements in Italy, 1988–2014. _Social Politics_. Online first. [DOI: 10.1093/sp/jxaa014](https://academic.oup.com/sp/article-abstract/doi/10.1093/sp/jxaa014/5874663?redirectedFrom=fulltext){:target="_blank"}.
 
