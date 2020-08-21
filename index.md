@@ -10,7 +10,7 @@ Nevena Kulic and Giulia M. Dotti Sani (2020). Within-couple distribution of econ
 
 Giulia M. Dotti Sani (2020). Is it "good" to have a stay at home mom? Parental childcare time and work–family arrangements in Italy, 1988–2014. _Social Politics_. Online first. [DOI: 10.1093/sp/jxaa014](https://academic.oup.com/sp/article-abstract/doi/10.1093/sp/jxaa014/5874663?redirectedFrom=fulltext){:target="_blank"}.
 
-Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani et al (2020). Investigating the social, economic and political consequences of the COVID-19 pandemic: A rolling cross-section approach. _Survey Research Methods_, 14(2). [DOI: https://doi.org/10.18148/srm/2020.v14i2.7745](https://ojs.ub.uni-konstanz.de/srm/article/view/7745){:target="_blank"}.
+Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani et al (2020). Investigating the social, economic and political consequences of the COVID-19 pandemic: A rolling cross-section approach. _Survey Research Methods_, 14(2). [DOI: 10.18148/srm/2020.v14i2.7745](https://ojs.ub.uni-konstanz.de/srm/article/view/7745){:target="_blank"}.
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_,  150, 1, 351-373. [DOI: 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue){:target="_blank"}. See our [**video abstract here**]({% link Video/adoption-video.md %}){:target="_blank"}.
 
