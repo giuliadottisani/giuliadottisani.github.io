@@ -4,6 +4,11 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
+Simona Guglielmi, Giulia M. Dotti Sani, Francesco Molteni et al (accepted for publication). Public acceptability of containment measures during the COVID-19 pandemic in Italy: how institutional confidence and specific political support matter. _International Journal of Sociology and Social Policy_.
+
+
+Nevena Kulic, Giulia M. Dotti Sani, Susanne Strauss and Luna Bellani (accepted for publication). Economic disturbances in the COVID-19 crisis and their gendered impact on unpaid activities in Germany and Italy. _European Societies_. Online first [DOI:10.1080/14616696.2020.1828974].
+
 Giulia M. Dotti Sani and Matteo Luppi (2020). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_. Online first [DOI: 10.1177/0950017020937935](https://journals.sagepub.com/doi/10.1177/0950017020937935){:target="_blank"}.
 
 Nevena Kulic and Giulia M. Dotti Sani (2020). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociologia_. Online first. [DOI: 10.1423/97642](https://www.rivisteweb.it/issn/0486-0349){:target="_blank"}.
