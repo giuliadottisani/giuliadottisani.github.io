@@ -69,7 +69,7 @@ Giulia M. Dotti Sani and Cristiano Vezzoni (2019). Attitudes and values in a cha
 
 Giulia M. Dotti Sani, Manuela Naldini, Trudie Knijn, Cristina Solera, Mara A. Yerkes (2018) National attitudes as a barrier to European citizenship rights? The case of parenthood and partnership rights for individuals in diverse family forms. In: Knijn T. and Naldini M. (eds.) _Gender and Generational Division in EU citizenship_, Edward Elgar publishing. [ISBN: 978 1 78811 315 1](https://www.e-elgar.com/shop/gender-and-generational-division-in-eu-citizenship){:target="_blank"}.
 
-Giulia M. Dotti Sani (2020) Cittadini «onesti» in uno Stato «corrotto»? In Biolcati, F., Rovati G., and Segatti, P. (eds.) _Come cambiano gli Italiani_, Il Mulino: Bologna. [ISBN: 978-88-15-28748-9]
+Giulia M. Dotti Sani (2020) Cittadini «onesti» in uno Stato «corrotto»? In Biolcati, F., Rovati G., and Segatti, P. (eds.) _Come cambiano gli Italiani_, Il Mulino: Bologna. [ISBN: 978 88 15 28748 9]
 
 **book reviews**
 
