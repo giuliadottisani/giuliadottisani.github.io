@@ -4,8 +4,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
-Simona Guglielmi, Giulia M. Dotti Sani, Francesco Molteni et al (accepted for publication). Public acceptability of containment measures during the COVID-19 pandemic in Italy: how institutional confidence and specific political support matter. _International Journal of Sociology and Social Policy_.
-
+Simona Guglielmi, Giulia M. Dotti Sani, Francesco Molteni et al (2020). Public acceptability of containment measures during the COVID-19 pandemic in Italy: how institutional confidence and specific political support matter. _International Journal of Sociology and Social Policy_. Online first [DOI:10.1108/IJSSP-07-2020-0342](https://www.emerald.com/insight/content/doi/10.1108/IJSSP-07-2020-0342/full/html)
 
 Nevena Kulic, Giulia M. Dotti Sani, Susanne Strauss and Luna Bellani (2020). Economic disturbances in the COVID-19 crisis and their gendered impact on unpaid activities in Germany and Italy. _European Societies_. Online first [DOI:10.1080/14616696.2020.1828974](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828974)
 
