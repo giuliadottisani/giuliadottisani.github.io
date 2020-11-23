@@ -4,11 +4,13 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
-Simona Guglielmi, Giulia M. Dotti Sani, Francesco Molteni _et al._ (2020). Public acceptability of containment measures during the COVID-19 pandemic in Italy: how institutional confidence and specific political support matter. _International Journal of Sociology and Social Policy_. Online first [DOI:10.1108/IJSSP-07-2020-0342](https://www.emerald.com/insight/content/doi/10.1108/IJSSP-07-2020-0342/full/html)
+Francesco Molteni, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Giulia Maria Dotti Sani, Simona Guglielmi, Marco Maraffi, Andrea Pedrazzani, Paolo Segatti & Cristiano Vezzoni (2020) Searching for comfort in religion: insecurity and religious behaviour during the COVID-19 pandemic in Italy. _European Societies_.  Online first [DOI: 10.1080/14616696.2020.1836383](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836383){:target="_blank"}.
 
-Nevena Kulic, Giulia M. Dotti Sani, Susanne Strauss and Luna Bellani (2020). Economic disturbances in the COVID-19 crisis and their gendered impact on unpaid activities in Germany and Italy. _European Societies_. Online first [DOI:10.1080/14616696.2020.1828974](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828974)
+Simona Guglielmi, Giulia M. Dotti Sani, Francesco Molteni _et al._ (2020). Public acceptability of containment measures during the COVID-19 pandemic in Italy: how institutional confidence and specific political support matter. _International Journal of Sociology and Social Policy_. Online first [DOI:10.1108/IJSSP-07-2020-0342](https://www.emerald.com/insight/content/doi/10.1108/IJSSP-07-2020-0342/full/html){:target="_blank"}.
 
-Giulia M. Dotti Sani and Matteo Luppi (2020). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_. Online first [DOI: 10.1177/0950017020937935](https://journals.sagepub.com/doi/10.1177/0950017020937935){:target="_blank"}{:target="_blank"}.
+Nevena Kulic, Giulia M. Dotti Sani, Susanne Strauss and Luna Bellani (2020). Economic disturbances in the COVID-19 crisis and their gendered impact on unpaid activities in Germany and Italy. _European Societies_. Online first [DOI:10.1080/14616696.2020.1828974](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1828974){:target="_blank"}.
+
+Giulia M. Dotti Sani and Matteo Luppi (2020). Absence from work after the birth of the first child and mothers’ retirement incomes: A comparative analysis of ten European countries. _Work, Employment and Society_. Online first [DOI: 10.1177/0950017020937935](https://journals.sagepub.com/doi/10.1177/0950017020937935){:target="_blank"}.
 
 Nevena Kulic and Giulia M. Dotti Sani (2020). Within-couple distribution of economic resources. A critical review of extant studies and avenues for future research. _Rassegna Italiana di Sociologia_. Online first. [DOI: 10.1423/97642](https://www.rivisteweb.it/issn/0486-0349){:target="_blank"}.
 
