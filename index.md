@@ -104,8 +104,11 @@ Ceylan Engin and Giulia M. Dotti Sani. Can We Use the European Social Survey to 
 
 Giulia M. Dotti Sani. Does spending time with your children make you happier? Evidence from the Italian Time Use survey
 
+Giulia M. Dotti Sani and Simona Guglielmi. Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries
+
 
 **non-academic outlets**
+Giulia M. Dotti Sani (January 2021) La pandemia tra disciplina, intolleranza e fiducia (altalenante) nelle istituzioni: l’opinione pubblica ai tempi del Covid. In [NaspRead](https://www.naspread.eu/it/contributi-it/articoli-it/opinione-pubblica-ai-tempi-del-covid-indagine-sps-trend.html){:target="_blank"}.
 
 Giulia M. Dotti Sani (May 2019) Il matrimonio tra persone dello stesso sesso: cosa se ne pensa in Italia. In [Neodemos](https://www.neodemos.info/articoli/il-matrimonio-tra-persone-dello-stesso-sesso-cosa-se-ne-pensa-in-italia/){:target="_blank"}.
 
