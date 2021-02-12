@@ -108,6 +108,8 @@ Giulia M. Dotti Sani and Simona Guglielmi. Unpacking the link between gender and
 
 
 **non-academic outlets**
+
+
 Giulia M. Dotti Sani (January 2021) La pandemia tra disciplina, intolleranza e fiducia (altalenante) nelle istituzioni: l’opinione pubblica ai tempi del Covid. In [NaspRead](https://www.naspread.eu/it/contributi-it/articoli-it/opinione-pubblica-ai-tempi-del-covid-indagine-sps-trend.html){:target="_blank"}.
 
 Giulia M. Dotti Sani (May 2019) Il matrimonio tra persone dello stesso sesso: cosa se ne pensa in Italia. In [Neodemos](https://www.neodemos.info/articoli/il-matrimonio-tra-persone-dello-stesso-sesso-cosa-se-ne-pensa-in-italia/){:target="_blank"}.
