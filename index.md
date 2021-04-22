@@ -5,7 +5,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
- <span style="color:ebblue"> *2021*</span>
+ <span style="color:blue"> *2021*</span>
 
 Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (accepted for publication). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_
 
@@ -32,11 +32,10 @@ Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani _et 
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_,  150, 1, 351-373. [DOI: 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue){:target="_blank"}. See our [**video abstract here**]({% link Video/adoption-video.md %}){:target="_blank"}.
 
-
- <span style="color:ebblue"> *2019*</span>
+<span style="color:ebblue"> *2019*</span>
 Giulia M. Dotti Sani and Cristiano Vezzoni (2019) The European Social Survey: A telescope for the social sciences. _Polis_, 2019/02, 179-184. [DOI: 10.1424/94244](https://www.rivisteweb.it/doi/10.1424/94244){:target="_blank"}.
 
- <span style="color:ebblue"> *2018*</span>
+<span style="color:ebblue"> *2018*</span>
 Mario Quaranta and Giulia M. Dotti Sani (2018). Left behind? Gender gaps in political engagement over the life course in 27 European countries. _Social Politics_, 25, 2, 254–286. [DOI: doi.org/10.1093/sp/jxy005](https://academic.oup.com/sp/article/25/2/254/4851034){:target="_blank"}.
 
 Giulia M. Dotti Sani and Claudia Acciai (2018). Two hearts and a loan? Mortgages, employment insecurity and earnings among young couples in six European countries. _Urban Studies_, 55(11), 2451–2469. [DOI: 10.1177/0042098017717211](https://journals.sagepub.com/doi/full/10.1177/0042098017717211){:target="_blank"}.
