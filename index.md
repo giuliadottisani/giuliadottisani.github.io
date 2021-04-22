@@ -7,7 +7,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 
 
-<span style="color:#2E86C1"> **2021**  </span>
+<span style="color:#2E86C1"> 2021 </span>
 <span style="color:red"> **2021**  </span>
 <span style="color:blue">some *blue* text</span>.
 
