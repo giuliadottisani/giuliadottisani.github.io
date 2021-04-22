@@ -5,8 +5,8 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
- <span style="color:lightblue"> *2021*</span>
- 
+ <span style="color: #33B5FF"> **2021** </span>
+
  |-   |-  |-   |-   |-   |
  | <span style="font-family: Source Code Pro; padding: 20px; background-color: #000000; color: #fff;">#000000</span> |
 
