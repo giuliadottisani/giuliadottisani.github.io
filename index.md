@@ -5,9 +5,11 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
+ <span style="color:red"> *2021*</span>
+
 Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (accepted for publication). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_
 
-Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (accepted for publication). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. Partecipazione e Conflitto.
+Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (accepted for publication). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. _Partecipazione e Conflitto_.
 
 
 Ferruccio Biolcati, Cristiano Vezzoni, Riccardo Ladini, Antonio M. Chiesi, Giulia M. Dotti Sani, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti (2021) Come monitorare la risposta dell’opinione pubblica a eventi imprevisti? Il progetto ResPOnsE COVID-19. _Polis_ 1, pp. 165-177. [DOI: 10.1424/100292](https://www.rivisteweb.it/doi/10.1424/100292){:target="_blank"}.
