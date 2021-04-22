@@ -7,6 +7,10 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
  <span style="color:blue"> *2021*</span>
 
+ <div class="text-purple">
+   2021, <a href="#" class="text-inherit">including the link</a>
+ </div>
+
 Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (accepted for publication). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_
 
 Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (accepted for publication). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. _Partecipazione e Conflitto_.
