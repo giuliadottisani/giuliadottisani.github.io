@@ -5,7 +5,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
- <span style="color:red"> *2021*</span>
+ <span style="color:ebblue"> *2021*</span>
 
 Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (accepted for publication). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_
 
@@ -13,6 +13,8 @@ Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sa
 
 
 Ferruccio Biolcati, Cristiano Vezzoni, Riccardo Ladini, Antonio M. Chiesi, Giulia M. Dotti Sani, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti (2021) Come monitorare la risposta dell’opinione pubblica a eventi imprevisti? Il progetto ResPOnsE COVID-19. _Polis_ 1, pp. 165-177. [DOI: 10.1424/100292](https://www.rivisteweb.it/doi/10.1424/100292){:target="_blank"}.
+
+ <span style="color:ebblue"> *2020*</span>
 
 Francesco Molteni, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Giulia Maria Dotti Sani, Simona Guglielmi, Marco Maraffi, Andrea Pedrazzani, Paolo Segatti & Cristiano Vezzoni (2020) Searching for comfort in religion: insecurity and religious behaviour during the COVID-19 pandemic in Italy. _European Societies_.  Online first [DOI: 10.1080/14616696.2020.1836383](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836383){:target="_blank"}.
 
@@ -30,8 +32,11 @@ Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani _et 
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_,  150, 1, 351-373. [DOI: 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue){:target="_blank"}. See our [**video abstract here**]({% link Video/adoption-video.md %}){:target="_blank"}.
 
+
+ <span style="color:ebblue"> *2019*</span>
 Giulia M. Dotti Sani and Cristiano Vezzoni (2019) The European Social Survey: A telescope for the social sciences. _Polis_, 2019/02, 179-184. [DOI: 10.1424/94244](https://www.rivisteweb.it/doi/10.1424/94244){:target="_blank"}.
 
+ <span style="color:ebblue"> *2018*</span>
 Mario Quaranta and Giulia M. Dotti Sani (2018). Left behind? Gender gaps in political engagement over the life course in 27 European countries. _Social Politics_, 25, 2, 254–286. [DOI: doi.org/10.1093/sp/jxy005](https://academic.oup.com/sp/article/25/2/254/4851034){:target="_blank"}.
 
 Giulia M. Dotti Sani and Claudia Acciai (2018). Two hearts and a loan? Mortgages, employment insecurity and earnings among young couples in six European countries. _Urban Studies_, 55(11), 2451–2469. [DOI: 10.1177/0042098017717211](https://journals.sagepub.com/doi/full/10.1177/0042098017717211){:target="_blank"}.
