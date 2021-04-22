@@ -18,7 +18,7 @@ Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sa
 
 Ferruccio Biolcati, Cristiano Vezzoni, Riccardo Ladini, Antonio M. Chiesi, Giulia M. Dotti Sani, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti (2021) Come monitorare la risposta dell’opinione pubblica a eventi imprevisti? Il progetto ResPOnsE COVID-19. _Polis_ 1, pp. 165-177. [DOI: 10.1424/100292](https://www.rivisteweb.it/doi/10.1424/100292){:target="_blank"}.
 
-<span style="color: #2E86C1"> **2020**  </span>
+<span style="font-weight:bold; color:#2E86C1"> 2020 </span>
 
 Francesco Molteni, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Giulia Maria Dotti Sani, Simona Guglielmi, Marco Maraffi, Andrea Pedrazzani, Paolo Segatti & Cristiano Vezzoni (2020) Searching for comfort in religion: insecurity and religious behaviour during the COVID-19 pandemic in Italy. _European Societies_.  Online first [DOI: 10.1080/14616696.2020.1836383](https://www.tandfonline.com/doi/full/10.1080/14616696.2020.1836383){:target="_blank"}.
 
@@ -36,11 +36,11 @@ Cristiano Vezzoni, Riccardo Ladini, Francesco Molteni, Giulia M. Dotti Sani _et 
 
 Giulia M. Dotti Sani and Mario Quaranta (2020). Let them be, not adopt: General attitudes towards gays and lesbians and specific attitudes towards adoption by same-sex souples in 22 European countries. _Social Indicators Research_,  150, 1, 351-373. [DOI: 10.1007/s11205-020-02291-1](https://link.springer.com/article/10.1007/s11205-020-02291-1?wt_mc=Internal.Event.1.SEM.ArticleAuthorAssignedToIssue){:target="_blank"}. See our [**video abstract here**]({% link Video/adoption-video.md %}){:target="_blank"}.
 
-<span style="color: #2E86C1"> **2019**  </span>
+<span style="font-weight:bold; color:#2E86C1"> 2019 </span>
 
 Giulia M. Dotti Sani and Cristiano Vezzoni (2019) The European Social Survey: A telescope for the social sciences. _Polis_, 2019/02, 179-184. [DOI: 10.1424/94244](https://www.rivisteweb.it/doi/10.1424/94244){:target="_blank"}.
 
-<span style="color: #2E86C1"> **2018**  </span>
+
 
 Mario Quaranta and Giulia M. Dotti Sani (2018). Left behind? Gender gaps in political engagement over the life course in 27 European countries. _Social Politics_, 25, 2, 254–286. [DOI: doi.org/10.1093/sp/jxy005](https://academic.oup.com/sp/article/25/2/254/4851034){:target="_blank"}.
 
@@ -52,7 +52,6 @@ Mara Yerkes, Giulia M. Dotti Sani and Cristina Solera (2018). Attitudes towards 
 
 Giulia M. Dotti Sani and Stefani Scherer (2018). Maternal employment: Enabling factors in context. _Work, Employment and Society_. 32: 1, 75-92. [DOI: 10.1177/0950017016677944](https://journals.sagepub.com/doi/full/10.1177/0950017016677944){:target="_blank"}.
 
-<span style="color: #2E86C1"> **2016**  </span>
 
 Giulia M. Dotti Sani and Mario Quaranta (2016). Attitudes towards gender roles among teenagers in comparative perspective. _Sex Roles_. [DOI 10.1007/s11199-016-0698-7](https://link.springer.com/article/10.1007/s11199-016-0698-7){:target="_blank"}.
 
@@ -65,7 +64,7 @@ Mario Quaranta and Giulia M. Dotti Sani (2016). The relationship between the civ
 
 Giulia M. Dotti Sani and Beatrice Magistro (2016). Increasingly unequal? The economic crisis, social inequalities and trust in the European Parliament in 20 European countries. _European Journal of Political Research_, 55(2): 246–264. [DOI: 10.1111/1475-6765.12126](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12126){:target="_blank"}.
 
-<span style="color: #2E86C1"> **2015**  </span>
+
 
 Giulia M. Dotti Sani (2015) Within-Couple Inequality in Earnings and the Relative Motherhood Penalty. A Cross-National Study of European Countries, _European Sociological Review_, 31(6): 667-682. [DOI: 10.1093/esr/jcv066](https://doi.org/10.1093/esr/jcv066){:target="_blank"}.
 
@@ -73,7 +72,7 @@ Giulia M. Dotti Sani and Mario Quaranta (2015). Chips off the old blocks? The in
 
 Mario Quaranta and Giulia M. Dotti Sani (2015) O tutti o nessuno? Differenze regionali e di genere nella partecipazione politica e sociale intrafamigliare in Italia] _Polis_, 1. [DOI: 10.1424/79273](https://www.rivisteweb.it/doi/10.1424/79273){:target="_blank"}.
 
-<span style="color: #2E86C1"> **2014 and earlier**  </span>
+
 
 Giulia M. Dotti Sani (2014). Men’s employments hours and time on domestic chores in European countries. _Journal of Family Issues_, 35, 8, 1023-1047. [DOI: 10.1177/0192513X14522245](https://doi.org/10.1177/0192513X14522245){:target="_blank"}.
 
