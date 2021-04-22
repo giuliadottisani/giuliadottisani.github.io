@@ -54,6 +54,7 @@ Mara Yerkes, Giulia M. Dotti Sani and Cristina Solera (2018). Attitudes towards 
 
 Giulia M. Dotti Sani and Stefani Scherer (2018). Maternal employment: Enabling factors in context. _Work, Employment and Society_. 32: 1, 75-92. [DOI: 10.1177/0950017016677944](https://journals.sagepub.com/doi/full/10.1177/0950017016677944){:target="_blank"}.
 
+<span style="font-weight:bold; color:#2E86C1"> 2016 </span>
 
 Giulia M. Dotti Sani and Mario Quaranta (2016). Attitudes towards gender roles among teenagers in comparative perspective. _Sex Roles_. [DOI 10.1007/s11199-016-0698-7](https://link.springer.com/article/10.1007/s11199-016-0698-7){:target="_blank"}.
 
@@ -67,6 +68,7 @@ Mario Quaranta and Giulia M. Dotti Sani (2016). The relationship between the civ
 Giulia M. Dotti Sani and Beatrice Magistro (2016). Increasingly unequal? The economic crisis, social inequalities and trust in the European Parliament in 20 European countries. _European Journal of Political Research_, 55(2): 246–264. [DOI: 10.1111/1475-6765.12126](https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12126){:target="_blank"}.
 
 
+<span style="font-weight:bold; color:#2E86C1"> 2015 </span>
 
 Giulia M. Dotti Sani (2015) Within-Couple Inequality in Earnings and the Relative Motherhood Penalty. A Cross-National Study of European Countries, _European Sociological Review_, 31(6): 667-682. [DOI: 10.1093/esr/jcv066](https://doi.org/10.1093/esr/jcv066){:target="_blank"}.
 
@@ -75,6 +77,7 @@ Giulia M. Dotti Sani and Mario Quaranta (2015). Chips off the old blocks? The in
 Mario Quaranta and Giulia M. Dotti Sani (2015) O tutti o nessuno? Differenze regionali e di genere nella partecipazione politica e sociale intrafamigliare in Italia] _Polis_, 1. [DOI: 10.1424/79273](https://www.rivisteweb.it/doi/10.1424/79273){:target="_blank"}.
 
 
+<span style="font-weight:bold; color:#2E86C1"> 2014 </span>
 
 Giulia M. Dotti Sani (2014). Men’s employments hours and time on domestic chores in European countries. _Journal of Family Issues_, 35, 8, 1023-1047. [DOI: 10.1177/0192513X14522245](https://doi.org/10.1177/0192513X14522245){:target="_blank"}.
 
