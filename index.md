@@ -15,6 +15,8 @@ Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, An
 
 <img src="https://giuliadottisani.github.io/figures/Fig1" alt="">
 
+![useful image]({{ https://giuliadottisani.github.io }}/figures/Fig1.png)
+
 Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (2021). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. _Partecipazione e Conflitto_, 14(1): 176-201. [DOI: 10.1285/i20356609v14i1p176](http://siba-ese.unisalento.it/index.php/paco/article/view/24021){:target="_blank"}.
 
 
