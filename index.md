@@ -1,4 +1,4 @@
-**very short bio**  
+**very short bio**
 
 I am an Assistant Professor in the Department of Social and Political Sciences at the University of Milano "Statale". I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_September_2020.pdf).
 
@@ -11,9 +11,9 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 
-Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (accepted for publication). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_
+Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (2021). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_ Online first [DOI: https://doi.org/10.1017/ipo.2021.19](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/where-does-the-coronavirus-come-from-on-the-mechanisms-underlying-the-endorsement-of-conspiracy-theories-on-the-origin-of-sarscov2/E84905210EDF8BAB4BC81AD81C648AE8){:target="_blank"}.
 
-Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (accepted for publication). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. _Partecipazione e Conflitto_.
+Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (2021). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. _Partecipazione e Conflitto_, 14(1): 176-201. [DOI: 10.1285/i20356609v14i1p176](http://siba-ese.unisalento.it/index.php/paco/article/view/24021){:target="_blank"}.
 
 
 Ferruccio Biolcati, Cristiano Vezzoni, Riccardo Ladini, Antonio M. Chiesi, Giulia M. Dotti Sani, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti (2021) Come monitorare la risposta dell’opinione pubblica a eventi imprevisti? Il progetto ResPOnsE COVID-19. _Polis_ 1, pp. 165-177. [DOI: 10.1424/100292](https://www.rivisteweb.it/doi/10.1424/100292){:target="_blank"}.
