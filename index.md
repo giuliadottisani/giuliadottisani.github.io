@@ -12,7 +12,8 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 
 * Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (2021). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_, Online first [DOI: https://doi.org/10.1017/ipo.2021.19](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/where-does-the-coronavirus-come-from-on-the-mechanisms-underlying-the-endorsement-of-conspiracy-theories-on-the-origin-of-sarscov2/E84905210EDF8BAB4BC81AD81C648AE8){:target="_blank"}.
-*
+
+
 ---
 
 <span style="font-weight:bold; color:#2E86C1"> Teaser: </span> Predicted probabilities for probable origin of the SARS-CoV-2 virus by trust in the national parliament and high propensity to vote for the Five Star Movement and Lega.
