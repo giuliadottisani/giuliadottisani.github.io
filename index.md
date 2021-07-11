@@ -27,10 +27,12 @@ Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, An
             padding: 10px;
             border: 1px solid lightgray;
             margin: 10px;">
+            [![image]({{ https://giuliadottisani.github.io }}/figures/Fig1.png)]({{ https://giuliadottisani.github.io }}/figures/Fig1.png){:target="_blank"}
+</div>
 
 Pedrazzani, A., Maraffi, M., Guglielmi, S., Biolcati, F., Chiesi, A.M., Dotti Sani, G.M., Ladini, R., Molteni, F., Segatti, P., and Vezzoni, C. (2021). Is Democracy Effective Against Coronavirus? An Analysis of Citizens’ Opinions in Italy. _Partecipazione e Conflitto_, 14(1): 176-201. [DOI: 10.1285/i20356609v14i1p176](http://siba-ese.unisalento.it/index.php/paco/article/view/24021){:target="_blank"}.
 
-</div>
+
 
 Ferruccio Biolcati, Cristiano Vezzoni, Riccardo Ladini, Antonio M. Chiesi, Giulia M. Dotti Sani, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti (2021) Come monitorare la risposta dell’opinione pubblica a eventi imprevisti? Il progetto ResPOnsE COVID-19. _Polis_ 1, pp. 165-177. [DOI: 10.1424/100292](https://www.rivisteweb.it/doi/10.1424/100292){:target="_blank"}.
 
