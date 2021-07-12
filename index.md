@@ -18,7 +18,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
 Teaser: </span>
- Predicted probabilities for probable origin of the SARS-CoV-2 virus &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; by trust in the national parliament and high propensity to vote for the Five Star Movement and Lega.
+ Predicted probabilities for probable origin of the SARS-CoV-2 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; virus by trust in the national parliament and high propensity to vote for &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; the Five Star Movement and Lega.
 
 [![image]({{ https://giuliadottisani.github.io }}/figures/Fig1.png)]({{ https://giuliadottisani.github.io }}/figures/Fig1.png){:target="_blank"}
 
