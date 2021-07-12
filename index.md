@@ -3,13 +3,11 @@
 I am an Assistant Professor in the Department of Social and Political Sciences at the University of Milano "Statale". I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_September_2020.pdf){:target="_blank"}.
 
 
-<span style="font-weight:bold; color:#2E86C1"> Publication list [here](publications.md){:target="_blank"}.  </span>
+
 
 
 
 **articles in journals**
-
-
 
 
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
@@ -167,3 +165,6 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 * Giulia M. Dotti Sani (September 2016) La condizione delle madri in Italia: repetita iuvant? In [Neodemos](www.neodemos.info/articoli/la-condizione-delle-madri-in-italia-repetita-iuvant){:target="_blank"}.
 
 * Giulia M. Dotti Sani and Beatrice Magistro (February 2016). The troubling link between economic and political inequality in Europe. In [OpenDemocracy](https://www.opendemocracy.net/en/can-europe-make-it/troubling-link-between-economic-and-political/){:target="_blank"}.
+
+
+<span style="font-weight:bold; color:#2E86C1"> [Publication list here](publications.md){:target="_blank"}.  </span>
