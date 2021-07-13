@@ -18,6 +18,8 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 NEW!!
 
+![image]({{ https://giuliadottisani.github.io }}/figures/Fig1small2.png)
+
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
 Teaser: </span>
