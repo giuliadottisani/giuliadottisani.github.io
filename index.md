@@ -12,7 +12,8 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
-* Giulia M. Dotti Sani and Mario Quaranta (accepted). Mapping changes in attitudes toward gays and lesbians in Europe: An application of diffusion theory. _European Sociological Review_
+* Giulia M. Dotti Sani and Mario Quaranta (2021). Mapping changes in attitudes toward gays and lesbians in Europe: An application of diffusion theory. _European Sociological Review_, Online first [DOI: 10.1093/esr/jcab032](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcab032/6343126?login=true){:target="_blank"}.
+*
 
 * Cristiano Vezzoni, Giulia M. Dotti Sani, Riccardo Ladini, Ferruccio Biolcati, Antonio M. Chiesi, Simona Guglielmi, Nicola Maggini, Marco Maraffi, Francesco Molteni, Andrea Pedrazzani, Paolo Segatti  (2021). Where does the Coronavirus come from? On the mechanisms underlying the endorsement of conspiracy theories on the origin of SARS-CoV-2. _Italian Political Science Review_, Online first [DOI: https://doi.org/10.1017/ipo.2021.19](https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/where-does-the-coronavirus-come-from-on-the-mechanisms-underlying-the-endorsement-of-conspiracy-theories-on-the-origin-of-sarscov2/E84905210EDF8BAB4BC81AD81C648AE8){:target="_blank"}.
 
