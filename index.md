@@ -13,8 +13,16 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 
-* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}.
+* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}.
 
+
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
+Teaser: </span>
+ Predicted values of life satisfaction with 95% confidence intervals &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; by time spent in interactive childcare and in physical care  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  among employed mothers and fathers and non-employed mothers. &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: own calculation on ITUS data. Weighted.
+
+[![image]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png)]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png){:target="_blank"}
+
+---
 
 
 * Giulia M. Dotti Sani and Mario Quaranta (2021). Mapping changes in attitudes toward gays and lesbians in Europe: An application of diffusion theory. _European Sociological Review_, Online first [DOI: 10.1093/esr/jcab032](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcab032/6343126?login=true){:target="_blank"}. OPEN ACCESS!
