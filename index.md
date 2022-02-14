@@ -18,7 +18,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
 Teaser: </span>
- Predicted values of life satisfaction with 95% confidence intervals &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; by time spent in interactive childcare and in physical care  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  among employed mothers and fathers and non-employed mothers. &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: own calculation on ITUS data. Weighted.
+ Predicted values of life satisfaction with 95% confidence intervals &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; by time spent in interactive childcare and in physical care  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  among employed mothers and fathers and non-employed mothers. &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Source: own calculation on ITUS data. Weighted.
 
 [![image]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png)]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png){:target="_blank"}
 
@@ -127,9 +127,13 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **book chapters**
 
-* Giulia M. Dotti Sani, Manuela Naldini, Trudie Knijn, Cristina Solera, Mara A. Yerkes (2018) National attitudes as a barrier to European citizenship rights? The case of parenthood and partnership rights for individuals in diverse family forms. In: Knijn T. and Naldini M. (eds.) _Gender and Generational Division in EU citizenship_, Edward Elgar publishing. [ISBN: 978 1 78811 315 1](https://www.e-elgar.com/shop/gender-and-generational-division-in-eu-citizenship){:target="_blank"}.
+* Giulia M. Dotti Sani and Simona Guglielmi (forthcoming). Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries. In: Ina Kubbe and Ortrun Merkle (Eds) (forthcoming). Corruption, Gender and Norms (Working Title). Edward Elgar Publishing.
 
 * Giulia M. Dotti Sani (2020) Cittadini «onesti» in uno Stato «corrotto»? In Biolcati, F., Rovati G., and Segatti, P. (eds.) _Come cambiano gli Italiani_, Il Mulino: Bologna. [ISBN: 978 88 15 28748 9]
+
+* Giulia M. Dotti Sani, Manuela Naldini, Trudie Knijn, Cristina Solera, Mara A. Yerkes (2018) National attitudes as a barrier to European citizenship rights? The case of parenthood and partnership rights for individuals in diverse family forms. In: Knijn T. and Naldini M. (eds.) _Gender and Generational Division in EU citizenship_, Edward Elgar publishing. [ISBN: 978 1 78811 315 1](https://www.e-elgar.com/shop/gender-and-generational-division-in-eu-citizenship){:target="_blank"}.
+
+
 
 **book reviews**
 
@@ -157,13 +161,11 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 **ongoing projects**
 
 
-* Giulia M. Dotti Sani and Mario Quaranta. The diffusion of positive attitudes towards homosexuality in Europe: Mapping changes in individual heterogeneities across time and space
 
-* Ceylan Engin and Giulia M. Dotti Sani. Can We Use the European Social Survey to Study Same-Sex Partners in Europe?
 
-* Giulia M. Dotti Sani. Does spending time with your children make you happier? Evidence from the Italian Time Use survey
+* Ceylan Engin and Giulia M. Dotti Sani. Can We Use Survey Data to Study Same-Sex Partners in Europe?
 
-* Giulia M. Dotti Sani and Simona Guglielmi. Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries
+
 
 
 **non-academic outlets**
