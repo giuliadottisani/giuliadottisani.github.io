@@ -137,9 +137,7 @@ Different Ages. _Sex Roles_, 74:411â€“421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **book reviews**
 
-* Giulia M. Dotti Sani (2020). Review of Studies in the Sociology
-of Population. International perspectives, by Jon Anson, Walter Bartl, Andrzej Kulczycki (Eds.), Heildelberg, Springer, 2019, 373 pp. _Quaderni di Sociologia_ 82.
-
+* Giulia M. Dotti Sani (2020). Review of Studies in the Sociology of Population. International perspectives, by Jon Anson, Walter Bartl, Andrzej Kulczycki (Eds.), Heildelberg, Springer, 2019, 373 pp. _Quaderni di Sociologia_ 82.
 
 * Giulia M. Dotti Sani (2014). Review of Aging Populations, Globalization and the Labor Market. Comparing Late Working Life and Retirement in Modern Societies, by H.P. Blossfeld, S. Buchholz and K. Kurz (Eds.), International Sociology Review of Books, 29: 431
 
@@ -160,13 +158,17 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 
 **ongoing projects**
 
-
-
+* Dotti Sani et al (forthcoming) Perceptions of deservingness: civil and social rights for diverse families
 
 * Ceylan Engin and Giulia M. Dotti Sani. Can We Use Survey Data to Study Same-Sex Partners in Europe?
 
+* Francesco Molteni, Simone Sarti and Giulia Dotti Sani. Using ResPOnsE COVID-19 data to monitor psycho-physiological distress during the pandemic in Italy.
 
+* Giulia M. Dotti Sani and Francesco Molteni. Family penalties in labour force participation among migrant and native women in Italy Economic needs, cultural legacies and local binds
 
+* Giulia Dotti Sani, Elias Naumann, Piotr Marzec, Marta Pasqualini. Comparing the social and economic impact of Covid-19 with high-quality survey data across Europe
+
+* The division of domestic work during the pandemic
 
 **non-academic outlets**
 
