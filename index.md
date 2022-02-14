@@ -18,7 +18,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
 Teaser: </span>
- Predicted values of life satisfaction with 95% confidence  <br> intervals by time spent in interactive childcare and in physical care <br>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  among employed mothers and fathers and non-employed mothers. <br> Source: own calculation on ITUS data. Weighted.
+ Predicted values of life satisfaction with 95% confidence  <br>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; intervals by time spent in interactive childcare and in physical care <br>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  among employed mothers and fathers and non-employed mothers. <br>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  Source: own calculation on ITUS data. Weighted.
 
 [![image]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png)]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png){:target="_blank"}
 
