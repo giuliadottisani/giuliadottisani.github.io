@@ -13,7 +13,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 
-* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}.
+* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](DottiSani 2015 Accepted version.pdf){:target="_blank"}.
 
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
@@ -99,7 +99,7 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 <span style="font-weight:bold; color:#2E86C1"> 2015 </span>
 
-* Giulia M. Dotti Sani (2015) Within-Couple Inequality in Earnings and the Relative Motherhood Penalty. A Cross-National Study of European Countries, _European Sociological Review_, 31(6): 667-682. [DOI: 10.1093/esr/jcv066](https://doi.org/10.1093/esr/jcv066){:target="_blank"}.
+* Giulia M. Dotti Sani (2015) Within-Couple Inequality in Earnings and the Relative Motherhood Penalty. A Cross-National Study of European Countries, _European Sociological Review_, 31(6): 667-682. [DOI: 10.1093/esr/jcv066](https://doi.org/10.1093/esr/jcv066){:target="_blank"}. Pre-print available [here](DottiSani 2015 Accepted version.pdf){:target="_blank"}.
 
 * Giulia M. Dotti Sani and Mario Quaranta (2015). Chips off the old blocks? The intergenerational transmission of political participation in Italy, _Social Science Research_, 50, 264–276. [DOI: 10.1016/j.ssresearch.2014.12.002](https://doi.org/10.1016/j.ssresearch.2014.12.002){:target="_blank"}.
 
@@ -128,6 +128,14 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 **book chapters**
 
 * Giulia M. Dotti Sani and Simona Guglielmi (forthcoming). Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries. In: Ina Kubbe and Ortrun Merkle (Eds) (forthcoming). Corruption, Gender and Norms (Working Title). Edward Elgar Publishing.
+
+* Dotti Sani Giulia, Solera Cristina, Yerkes Mara A (forthcoming), “Perceptions of deservingness: social and civil rights for diverse families”, in Yerkes, M.A. and Bal, M.  (eds.) Solidarity and Social Justice in Contemporary Societies: An Interdisciplinary Approach to Understanding Social Inequalities. London: Palgrave Macmillan.
+
+* Giulia M. Dotti Sani. L’emergenza sanitaria da COVID-19 e la divisione del lavoro domestico e di cura, in Ugo Ascoli e Rossella Ciccia (Eds) Le donne in Italia durante la pandemia: politiche sociali e prospettive future, SOCIAL COHESION PAPERS Quaderni della coesione sociale, Numero 2, 2021. Available [here](https://osservatoriocoesionesociale.eu/wp-content/uploads/2021/10/Quaderno-collettivo-Donne-e-pandemia_def.pdf){:target="_blank"}.
+
+
+* Giulia M. Dotti Sani (2021). Aprire o non aprire? Questo è il problema... in Come siamo cambiati? Opinioni, orientamenti politici, preferenze di voto alla prova della pandemia, a cura di Maggini e Pedrazzani. Fondazione Gianfranco Feltrinelli.
+
 
 * Giulia M. Dotti Sani (2020) Cittadini «onesti» in uno Stato «corrotto»? In Biolcati, F., Rovati G., and Segatti, P. (eds.) _Come cambiano gli Italiani_, Il Mulino: Bologna. [ISBN: 978 88 15 28748 9]
 
