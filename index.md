@@ -13,7 +13,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 
-* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](DottiSani2021_preprint.pdf){:target="_blank"}.
+* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}.
 
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
@@ -99,7 +99,7 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 <span style="font-weight:bold; color:#2E86C1"> 2015 </span>
 
-* Giulia M. Dotti Sani (2015) Within-Couple Inequality in Earnings and the Relative Motherhood Penalty. A Cross-National Study of European Countries, _European Sociological Review_, 31(6): 667-682. [DOI: 10.1093/esr/jcv066](https://doi.org/10.1093/esr/jcv066){:target="_blank"}. Pre-print available [here](DottiSani2015_preprint){:target="_blank"}.
+* Giulia M. Dotti Sani (2015) Within-Couple Inequality in Earnings and the Relative Motherhood Penalty. A Cross-National Study of European Countries, _European Sociological Review_, 31(6): 667-682. [DOI: 10.1093/esr/jcv066](https://doi.org/10.1093/esr/jcv066){:target="_blank"}. Pre-print available [here](/pdf/DottiSani2015_preprint){:target="_blank"}.
 
 * Giulia M. Dotti Sani and Mario Quaranta (2015). Chips off the old blocks? The intergenerational transmission of political participation in Italy, _Social Science Research_, 50, 264–276. [DOI: 10.1016/j.ssresearch.2014.12.002](https://doi.org/10.1016/j.ssresearch.2014.12.002){:target="_blank"}.
 
