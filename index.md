@@ -1,6 +1,6 @@
 **very short bio**
 
-I am an Assistant Professor in the Department of Social and Political Sciences at the University of Milano "Statale". I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_September_2020.pdf){:target="_blank"}.
+I am an Assistant Professor in the Department of Social and Political Sciences at the University of Milano "Statale". I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_march_2022.pdf){:target="_blank"}.
 
 
 
@@ -166,17 +166,17 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 
 **ongoing projects**
 
-* Dotti Sani et al (forthcoming) Perceptions of deservingness: civil and social rights for diverse families
-
-* Ceylan Engin and Giulia M. Dotti Sani. Can We Use Survey Data to Study Same-Sex Partners in Europe?
-
-* Francesco Molteni, Simone Sarti and Giulia Dotti Sani. Using ResPOnsE COVID-19 data to monitor psycho-physiological distress during the pandemic in Italy.
+* Giulia Dotti Sani, Francesco Molteni, Simone Sarti. Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy
 
 * Giulia M. Dotti Sani and Francesco Molteni. Family penalties in labour force participation among migrant and native women in Italy Economic needs, cultural legacies and local binds
 
-* Giulia Dotti Sani, Elias Naumann, Piotr Marzec, Marta Pasqualini. Comparing the social and economic impact of Covid-19 with high-quality survey data across Europe
+* Elias Naumann, Giulia Dotti Sani, Piotr Marzec, Marta Pasqualini. Comparing the social and economic impact of Covid-19 with high-quality survey data across Europe
 
-* The division of domestic work during the pandemic
+* Ariane Bertogg and Giulia Dotti Sani. To the Fifties and back again. Couplesâ€˜ Breadwinning Arrangements  Before, During and After COVID-Lockdowns in Finland and Germany
+
+* Giulia Dotti Sani and Jessica Rosco. The role of political ideology and religiosity in shaping attitudes towards abortion: Italy in a comparative global perspective
+
+* Ceylan Engin and Giulia M. Dotti Sani. Can We Use Survey Data to Study Same-Sex Partners in Europe?
 
 **non-academic outlets**
 
