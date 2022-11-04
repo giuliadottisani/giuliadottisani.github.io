@@ -13,6 +13,9 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 
+* Giulia M. Dotti Sani, Francesco Molteni & Simone Sarti (accepted). Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy. _Applied Research in Quality of Life_
+<!-- Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}. -->
+
 * Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}.
 
 
@@ -127,7 +130,7 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **book chapters**
 
-* Giulia M. Dotti Sani and Simona Guglielmi (forthcoming). Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries. In: Ina Kubbe and Ortrun Merkle (Eds) (forthcoming). Corruption, Gender and Norms (Working Title). Edward Elgar Publishing.
+* Giulia M. Dotti Sani and Simona Guglielmi (2022). Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries. In: Ina Kubbe and Ortrun Merkle (Eds) (forthcoming). Corruption, Gender and Norms (Working Title). Edward Elgar Publishing.
 
 * Dotti Sani Giulia, Solera Cristina, Yerkes Mara A (forthcoming), “Perceptions of deservingness: social and civil rights for diverse families”, in Yerkes, M.A. and Bal, M.  (eds.) Solidarity and Social Justice in Contemporary Societies: An Interdisciplinary Approach to Understanding Social Inequalities. London: Palgrave Macmillan.
 
