@@ -169,7 +169,6 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 
 **ongoing projects**
 
-* Giulia Dotti Sani, Francesco Molteni, Simone Sarti. Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy
 
 * Giulia M. Dotti Sani and Francesco Molteni. Family penalties in labour force participation among migrant and native women in Italy Economic needs, cultural legacies and local binds
 
