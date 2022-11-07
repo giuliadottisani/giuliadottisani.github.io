@@ -145,6 +145,9 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 * Giulia M. Dotti Sani, Manuela Naldini, Trudie Knijn, Cristina Solera, Mara A. Yerkes (2018) National attitudes as a barrier to European citizenship rights? The case of parenthood and partnership rights for individuals in diverse family forms. In: Knijn T. and Naldini M. (eds.) _Gender and Generational Division in EU citizenship_, Edward Elgar publishing. [ISBN: 978 1 78811 315 1](https://www.e-elgar.com/shop/gender-and-generational-division-in-eu-citizenship){:target="_blank"}.
 
 
+**datasets**
+
+Vezzoni, C., Chiesi, A.M., Biolcati, F., Dotti-Sani, G.M., Guglielmi, S., Ladini, R., Maggini, N., Maraffi, M., Molteni, F., Pedrazzani, A., Segatti, P., Moroni, M., Piacentini, F. (2022). ResPOnsE COVID-19. Cumulative file: Wave 1 to Wave 4 (Italian version). https://doi.org/10.13130/RD_UNIMI/FF0ABQ, UNIMI Dataverse, V1.
 
 **book reviews**
 
