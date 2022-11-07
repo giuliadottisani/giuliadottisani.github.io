@@ -185,6 +185,7 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 
 **non-academic outlets**
 
+* La politica è roba da uomini? Podcast ne Il Paese delle Donne -  6. Donne e partecipazione politica (con Giulia Maria Dotti Sani). Prospettive di ricerca dalle "altre" Scienze. Podcast di NaspRead in collaborazione con Glt Foundation. Ascolta il podcast [qui](https://naspread.eu/it/contributi-it/video-abstract-it/il-paese-delle-donne-6-donne-e-partecipazione-politica-con-giulia-maria-dotti-sani.html){:target="_blank"}.
 
 * Giulia M. Dotti Sani (January 2021) La pandemia tra disciplina, intolleranza e fiducia (altalenante) nelle istituzioni: l’opinione pubblica ai tempi del Covid. In [NaspRead](https://www.naspread.eu/it/contributi-it/articoli-it/opinione-pubblica-ai-tempi-del-covid-indagine-sps-trend.html){:target="_blank"}.
 
