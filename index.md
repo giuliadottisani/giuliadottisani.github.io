@@ -199,7 +199,4 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 
 
 <!-- <span style="font-weight:bold; color:#2E86C1"> [Publication list here](publications.md){:target="_blank"}.  </span>-->
-
-
-
-See our [**video abstract here**]({% link Video/tune.mp4 %}){:target="_blank"}.
+[Escape hint](escape.md)
