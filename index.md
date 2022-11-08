@@ -198,5 +198,6 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 * Giulia M. Dotti Sani and Beatrice Magistro (February 2016). The troubling link between economic and political inequality in Europe. In [OpenDemocracy](https://www.opendemocracy.net/en/can-europe-make-it/troubling-link-between-economic-and-political/){:target="_blank"}.
 
 
-<!-- <span style="font-weight:bold; color:#2E86C1"> [Publication list here](publications.md){:target="_blank"}.  </span>-->
+<!-- <span style="font-weight:bold; color:#2E86C1"> [Publication list here](publications.md){:target="_blank"}.  </span>
 [Escape hint](escape.md)
+-->
