@@ -10,13 +10,15 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 **articles in journals**
 
 
-<span style="font-weight:bold; color:#2E86C1"> 2021 </span>
+<span style="font-weight:bold; color:#2E86C1"> 2022 </span>
 
 
-* Giulia M. Dotti Sani, Francesco Molteni & Simone Sarti (2022). Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy. _Applied Research in Quality of Life_ Online first. [DOI:10.1007/s11482-022-10120-5](https://link.springer.com/article/10.1007/s11482-022-10120-5.){:target="_blank"}.
+* Giulia M. Dotti Sani, Francesco Molteni & Simone Sarti (2022). Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy. _Applied Research in Quality of Life_ Online first. [DOI:10.1007/s11482-022-10120-5](https://link.springer.com/article/10.1007/s11482-022-10120-5.){:target="_blank"}. OPEN ACCESS!
 <!-- Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}. -->
 
-* Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}.
+
+
+* Giulia M. Dotti Sani (2022). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_, 23, 1901–1921 [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}.
 
 
 &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   <span style="font-weight:bold; color:#2E86C1">
@@ -26,7 +28,7 @@ Teaser: </span>
 [![image]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png)]({{ https://giuliadottisani.github.io }}/figures/DottiSani2021_Fig1.png){:target="_blank"}
 
 ---
-
+<span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 * Giulia M. Dotti Sani and Mario Quaranta (2021). Mapping changes in attitudes toward gays and lesbians in Europe: An application of diffusion theory. _European Sociological Review_, Online first [DOI: 10.1093/esr/jcab032](https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcab032/6343126?login=true){:target="_blank"}. OPEN ACCESS!
 
