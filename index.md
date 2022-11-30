@@ -13,7 +13,7 @@ I am an Assistant Professor in the Department of Social and Political Sciences a
 <span style="font-weight:bold; color:#2E86C1"> 2021 </span>
 
 
-* Giulia M. Dotti Sani, Francesco Molteni & Simone Sarti (accepted). Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy. _Applied Research in Quality of Life_
+* Giulia M. Dotti Sani, Francesco Molteni & Simone Sarti (2022). Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy. _Applied Research in Quality of Life_ Online first. [DOI:10.1007/s11482-022-10120-5](https://link.springer.com/article/10.1007/s11482-022-10120-5.){:target="_blank"}.
 <!-- Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}. -->
 
 * Giulia M. Dotti Sani (2021). The Intrinsic Value of Childcare: Positive Returns of Childcare Time on Parents’ Well-Being and Life Satisfaction in Italy. _Journal of Happiness Studies_. Online first. [DOI:10.1007/s10902-021-00477-z](https://doi.org/10.1007/s10902-021-00477-z){:target="_blank"}. Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}.
@@ -184,6 +184,8 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 * Ceylan Engin and Giulia M. Dotti Sani. Can We Use Survey Data to Study Same-Sex Partners in Europe?
 
 **non-academic outlets**
+
+* Giulia M. Dotti Sani (November 2022) How Rewarding is Active Parenting? SPSP Character & Context Blog. Read it [here](https://spsp.org/news/character-and-context-blog/dotti-sani-active-parenting-increases-happiness)
 
 * La politica è roba da uomini? Podcast ne Il Paese delle Donne -  6. Donne e partecipazione politica (con Giulia Maria Dotti Sani). Prospettive di ricerca dalle "altre" Scienze. Podcast di NaspRead in collaborazione con Glt Foundation. Ascolta il podcast [qui](https://naspread.eu/it/contributi-it/video-abstract-it/il-paese-delle-donne-6-donne-e-partecipazione-politica-con-giulia-maria-dotti-sani.html){:target="_blank"}.
 
