@@ -187,7 +187,7 @@ research field and its historical development. Munich Personal RePEc Archive, NÂ
 
 **non-academic outlets**
 
-* Giulia M. Dotti Sani (November 2022) How Rewarding is Active Parenting? SPSP Character & Context Blog. Read it [here](https://spsp.org/news/character-and-context-blog/dotti-sani-active-parenting-increases-happiness)
+* Giulia M. Dotti Sani (November 2022) How Rewarding is Active Parenting? SPSP Character & Context Blog. Read it [here](https://spsp.org/news/character-and-context-blog/dotti-sani-active-parenting-increases-happiness){:target="_blank"}.
 
 * La politica Ã¨ roba da uomini? Podcast ne Il Paese delle Donne -  6. Donne e partecipazione politica (con Giulia Maria Dotti Sani). Prospettive di ricerca dalle "altre" Scienze. Podcast di NaspRead in collaborazione con Glt Foundation. Ascolta il podcast [qui](https://naspread.eu/it/contributi-it/video-abstract-it/il-paese-delle-donne-6-donne-e-partecipazione-politica-con-giulia-maria-dotti-sani.html){:target="_blank"}.
 
