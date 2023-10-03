@@ -1,10 +1,12 @@
 **very short bio**
 
-I am an Assistant Professor in the Department of Social and Political Sciences at the University of Milano "Statale". I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_april_2023.pdf){:target="_blank"}.
+I am an Associate Professor in the Department of Social and Political Sciences at the University of Milano. I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_October_2023.pdf){:target="_blank"}.
 
 
 
+**projects**
 
+* Principal Investigator - Maternal guilt: Measurement, correlates, and policy solutions in the Italian context (MatGuilt). Financed by the Italian Ministry for Education under the PRIN 2022 grant scheme (Bando Prin 2022 – Decreto Direttoriale n. 104 del 02-02-2022 – Settore ERC SH3 “The Social World and Its Diversity”). [Project webpage](https://www.spstrend.it/matguilt/){:target="_blank"}.
 
 
 **articles in journals**
