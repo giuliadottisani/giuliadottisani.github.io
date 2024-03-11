@@ -14,7 +14,7 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 <span style="font-weight:bold; color:#2E86C1"> 2024 </span>
 
-* Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_ 
+* Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_
 
 
 <span style="font-weight:bold; color:#2E86C1"> 2022 </span>
@@ -155,6 +155,8 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **datasets**
 
+* Vezzoni, C., Chiesi, A.M., Biolcati, F., Dotti-Sani, G.M., Guglielmi, S., Ladini, R., Maggini, N., Maraffi, M., Molteni, F., Pedrazzani, A., Segatti, P., Moroni, M., Piacentini, F. (2023). ResPOnsE COVID-19. Cumulative file: Wave 1 to Wave 4 (English version). https://doi.org/10.13130/RD_UNIMI/W3AFKS, UNIMI Dataverse, V1, UNF:6:aqD7nsLocfM/YU+ucspqsA== [fileUNF], UNIMI Dataverse, V1.
+
 * Vezzoni, C., Chiesi, A.M., Biolcati, F., Dotti-Sani, G.M., Guglielmi, S., Ladini, R., Maggini, N., Maraffi, M., Molteni, F., Pedrazzani, A., Segatti, P., Moroni, M., Piacentini, F. (2022). ResPOnsE COVID-19. Cumulative file: Wave 1 to Wave 4 (Italian version). [https://doi.org/10.13130/RD_UNIMI/FF0ABQ](https://doi.org/10.13130/RD_UNIMI/FF0ABQ){:target="_blank"}, UNIMI Dataverse, V1.
 
 **book reviews**
@@ -181,17 +183,20 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 **ongoing projects**
 
 
-* Giulia M. Dotti Sani and Francesco Molteni. Family penalties in labour force participation among migrant and native women in Italy Economic needs, cultural legacies and local binds
-
 * Elias Naumann, Giulia Dotti Sani, Piotr Marzec, Marta Pasqualini. Comparing the social and economic impact of Covid-19 with high-quality survey data across Europe
 
 * Ariane Bertogg and Giulia Dotti Sani. To the Fifties and back again. Couples‘ Breadwinning Arrangements  Before, During and After COVID-Lockdowns in Finland and Germany
 
 * Giulia Dotti Sani and Jessica Rosco. The role of political ideology and religiosity in shaping attitudes towards abortion: Italy in a comparative global perspective
 
-* Ceylan Engin and Giulia M. Dotti Sani. Can We Use Survey Data to Study Same-Sex Partners in Europe?
 
 **non-academic outlets**
+
+* Giulia Dotti Sani, Sara Alvino, Francesca Grigolo (March 2024). So che fanno male, ma li uso lo stesso: social media e benessere mentale. Lavoce.info. Read it [here](https://lavoce.info/archives/103964/so-che-fanno-male-ma-li-uso-lo-stesso-social-media-e-benessere-mentale/){:target="_blank"}.
+
+* Renzo Carriero, Giulia Dotti Sani, Riccardo Ladini, Francesco Molteni (February 2023). Nel nome del padre? Parità di genere e doppio cognome,  Lavoce.info. Read it [here](https://lavoce.info/archives/100031/nel-nome-del-padre-parita-di-genere-e-doppio-cognome){:target="_blank"}.
+
+* Giulia Dotti Sani & Marta Moroni (February 2023). Gli atteggiamenti verso la biodiversità in Italia. spsTREND post. Read it [here](https://www.spstrend.it/gli-atteggiamenti-verso-la-biodiversita-in-italia) {:target="_blank"}.
 
 * Giulia M. Dotti Sani (November 2022) How Rewarding is Active Parenting? SPSP Character & Context Blog. Read it [here](https://spsp.org/news/character-and-context-blog/dotti-sani-active-parenting-increases-happiness){:target="_blank"}.
 
