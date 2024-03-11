@@ -196,7 +196,7 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 
 * Renzo Carriero, Giulia Dotti Sani, Riccardo Ladini, Francesco Molteni (February 2023). Nel nome del padre? Parità di genere e doppio cognome,  Lavoce.info. Read it [here](https://lavoce.info/archives/100031/nel-nome-del-padre-parita-di-genere-e-doppio-cognome){:target="_blank"}.
 
-* Giulia Dotti Sani & Marta Moroni (February 2023). Gli atteggiamenti verso la biodiversità in Italia. spsTREND post. Read it [here](https://www.spstrend.it/gli-atteggiamenti-verso-la-biodiversita-in-italia) {:target="_blank"}.
+* Giulia Dotti Sani & Marta Moroni (February 2023). Gli atteggiamenti verso la biodiversità in Italia. spsTREND post. Read it [here](https://www.spstrend.it/gli-atteggiamenti-verso-la-biodiversita-in-italia){:target="_blank"}.
 
 * Giulia M. Dotti Sani (November 2022) How Rewarding is Active Parenting? SPSP Character & Context Blog. Read it [here](https://spsp.org/news/character-and-context-blog/dotti-sani-active-parenting-increases-happiness){:target="_blank"}.
 
