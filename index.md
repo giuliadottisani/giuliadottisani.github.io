@@ -12,8 +12,12 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 **articles in journals**
 
 
-<span style="font-weight:bold; color:#2E86C1"> 2022 </span>
+<span style="font-weight:bold; color:#2E86C1"> 2024 </span>
 
+* Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_ 
+
+
+<span style="font-weight:bold; color:#2E86C1"> 2022 </span>
 
 * Giulia M. Dotti Sani, Francesco Molteni & Simone Sarti (2022). Boys do cry: Age and gender differences in psycho-physiological distress during the COVID-19 pandemic in Italy. _Applied Research in Quality of Life_ Online first. [DOI:10.1007/s11482-022-10120-5](https://link.springer.com/article/10.1007/s11482-022-10120-5#citeas){:target="_blank"}. OPEN ACCESS!
 <!-- Pre-print available [here](/pdf/DottiSani2021_preprint.pdf){:target="_blank"}. -->
