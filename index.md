@@ -14,7 +14,7 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 <span style="font-weight:bold; color:#2E86C1"> 2024 </span>
 
-* Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_
+* Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_.
 
 
 <span style="font-weight:bold; color:#2E86C1"> 2022 </span>
