@@ -14,10 +14,9 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 <span style="font-weight:bold; color:#2E86C1"> 2024 </span>
 
-* Marta Moroni and  Giulia M. Dotti Sani (accepted). Do “environmental losers” pay the price? The role of individual and country vulnerabilities in the relationship between environmental concern and willingness to pay to protect the environment. _International Journal of Sociology_
-
 * Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_.
 
+* Marta Moroni and  Giulia M. Dotti Sani (accepted). Do “environmental losers” pay the price? The role of individual and country vulnerabilities in the relationship between environmental concern and willingness to pay to protect the environment. _International Journal of Sociology_ 1–23. [DOI:10.1080/00207659.2024.2376426](https://doi.org/10.1080/00207659.2024.2376426){:target="_blank"}. Pre-print available [here](/pdf/MoroniDottiSani2024_preprint.pdf){:target="_blank"}.
 
 <span style="font-weight:bold; color:#2E86C1"> 2022 </span>
 
