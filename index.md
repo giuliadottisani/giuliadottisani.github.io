@@ -12,9 +12,15 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 **articles in journals**
 
 
+<span style="font-weight:bold; color:#2E86C1"> 2025 </span>
+
+* Ariane Bertogg, Giulia M. Dotti Sani, Marija Bashevska, Anna Zamberlan (2025). Housework and Psychological Distress During the COVID-19 Crisis: A Gender- and Context-Sensitive Relationship? _Acta Sociologica_ [DOI:10.1177/00016993251320208](https://doi.org/10.1177/00016993251320208){:target="_blank"}
+
+* Giulia M. Dotti Sani, Ariane Bertogg, Janna Besamusca, Mara Yerkes, Anna Zamberlan (2025). To the Fifties and back again? A comparative analysis of changes in breadwinning arrangements during the first year of the COVID-19 pandemic in four European countries. _Work, Employment and Society_  [DOI:10.1177/09500170251322684](https://doi.org/10.1177/09500170251322684){:target="_blank"}
+
 <span style="font-weight:bold; color:#2E86C1"> 2024 </span>
 
-* Giulia M. Dotti Sani and Francesco Molteni (accepted). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_.
+* Giulia M. Dotti Sani and Francesco Molteni (2024). Family penalties in labor market participation among migrant and native women in Italy: investigating the “triple disadvantage” argument. _Stato e Mercato_.
 
 * Marta Moroni and  Giulia M. Dotti Sani (accepted). Do “environmental losers” pay the price? The role of individual and country vulnerabilities in the relationship between environmental concern and willingness to pay to protect the environment. _International Journal of Sociology_ 1–23. [DOI:10.1080/00207659.2024.2376426](https://doi.org/10.1080/00207659.2024.2376426){:target="_blank"}. Pre-print available [here](/pdf/MoroniDottiSani2024_preprint.pdf){:target="_blank"}.
 
