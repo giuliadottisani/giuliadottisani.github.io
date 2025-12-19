@@ -147,6 +147,14 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **book chapters**
 
+* Bashevska, M., & Dotti Sani, G. (2026). The gendered impact of the COVID-19 pandemic on labor market outcomes: A comparative European perspective. In J. Rubery, N. Sánchez-Mira, & V. Insarauto (Eds.), Women in turbulent times. Crises, transitions, and challenges for gender equality. Routledge.
+
+* Anne McMunn, Marija Bashevska, Marta Dominguez Folgueras, Giulia Dotti Sani, Thierry Gagne, and Bartholomew Konechni (2025). Gender Inequality in Unpaid Care Work During the COVID-19 Pandemic : A Cross-Country Comparison of France, Germany, Italy, and the UK. In: (a cura di): E. Naumann;F. Biolcati Rinaldi;A. Nandi;E. Recchi, Social Life during COVID-19 in France, Germany, Italy and the UK. p. 115-138, Palgrave MacMillan, ISBN: 9783031993480, doi: 10.1007/978-3-031-99349-7_5
+
+* Marzec, Piotr, Dotti Sani, Giulia, Maraffi, Marco, Moroni, Marta, Naumann, Elias, Pasqualini, Marta, Zola, Andrew (2025). Labour Markets and Work During the COVID-19 Pandemic—Who Could and Who Did Work From Home?. In: (a cura di): E. Naumann;F. Biolcati Rinaldi;A. Nandi;E. Recchi, Social Life during COVID-19 in France, Germany, Italy and the UK. p. 139-169, Palgrave MacMillan, ISBN: 9783031993480, doi: 10.1007/978-3-031-99349-7_6
+
+*Nandi, E. Naumann, A. Mcmunn, E. Recchi, F. Molteni, G. Dotti Sani, S. Sarti (2025). Double Vulnerability? A Cross-Country Comparison of Inequalities in Health, Subjective Wellbeing, and Mental Health During the COVID-19 Pandemic. In: (a cura di): E. Naumann;F. Biolcati Rinaldi;A. Nandi;E. Recchi, Social Life during COVID-19 in France, Germany, Italy and the UK. p. 139-169, Palgrave MacMillan, ISBN: 9783031993480, DOI: 10.1007/978-3-031-99349-7_4
+
 * Giulia M. Dotti Sani and Simona Guglielmi (2022). Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries. In: Ina Kubbe and Ortrun Merkle (Eds) (forthcoming). Corruption, Gender and Norms (Working Title). Edward Elgar Publishing.
 
 * Dotti Sani Giulia, Solera Cristina, Yerkes Mara A (forthcoming), “Perceptions of deservingness: social and civil rights for diverse families”, in Yerkes, M.A. and Bal, M.  (eds.) Solidarity and Social Justice in Contemporary Societies: An Interdisciplinary Approach to Understanding Social Inequalities. London: Palgrave Macmillan.
