@@ -16,7 +16,7 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 * Renzo Carriero, Giulia M. Dotti Sani (2025). Who Wants the Double Surname in Italy? An Empirical Analysis of Preferences and Behaviors, _Polis, Ricerche e studi su società e politica_, 3/2025, 349-373, [DOI: 10.1424/118537](https://www.rivisteweb.it/doi/10.1424/118537){:target="_blank"} Pre-print available [here](/pdf/CarrieroDottiSani2025preprint.pdf){:target="_blank"}.
 
-* Ariane Bertogg, Giulia M. Dotti Sani, Marija Bashevska, Anna Zamberlan (2025). Housework and Psychological Distress During the COVID-19 Crisis: A Gender- and Context-Sensitive Relationship? _Acta Sociologica_ [DOI:10.1177/00016993251320208](https://doi.org/10.1177/00016993251320208){:target="_blank"}
+* Ariane Bertogg, Giulia M. Dotti Sani, Marija Bashevska, Anna Zamberlan (2025). Housework and Psychological Distress During the COVID-19 Crisis: A Gender- and Context-Sensitive Relationship? _Acta Sociologica_ [DOI:10.1177/00016993251320208](https://journals.sagepub.com/doi/10.1177/00016993251320208){:target="_blank"}
 
 * Giulia M. Dotti Sani, Ariane Bertogg, Janna Besamusca, Mara Yerkes, Anna Zamberlan (2025). To the Fifties and back again? A comparative analysis of changes in breadwinning arrangements during the first year of the COVID-19 pandemic in four European countries. _Work, Employment and Society_  [DOI:10.1177/09500170251322684](https://doi.org/10.1177/09500170251322684){:target="_blank"}
 
@@ -153,7 +153,7 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 * Marzec, Piotr, Dotti Sani, Giulia, Maraffi, Marco, Moroni, Marta, Naumann, Elias, Pasqualini, Marta, Zola, Andrew (2025). Labour Markets and Work During the COVID-19 Pandemic—Who Could and Who Did Work From Home?. In: (a cura di): E. Naumann;F. Biolcati Rinaldi;A. Nandi;E. Recchi, Social Life during COVID-19 in France, Germany, Italy and the UK. p. 139-169, Palgrave MacMillan, ISBN: 9783031993480, doi: 10.1007/978-3-031-99349-7_6
 
-*Nandi, E. Naumann, A. Mcmunn, E. Recchi, F. Molteni, G. Dotti Sani, S. Sarti (2025). Double Vulnerability? A Cross-Country Comparison of Inequalities in Health, Subjective Wellbeing, and Mental Health During the COVID-19 Pandemic. In: (a cura di): E. Naumann;F. Biolcati Rinaldi;A. Nandi;E. Recchi, Social Life during COVID-19 in France, Germany, Italy and the UK. p. 139-169, Palgrave MacMillan, ISBN: 9783031993480, DOI: 10.1007/978-3-031-99349-7_4
+* Nandi, E. Naumann, A. Mcmunn, E. Recchi, F. Molteni, G. Dotti Sani, S. Sarti (2025). Double Vulnerability? A Cross-Country Comparison of Inequalities in Health, Subjective Wellbeing, and Mental Health During the COVID-19 Pandemic. In: (a cura di): E. Naumann;F. Biolcati Rinaldi;A. Nandi;E. Recchi, Social Life during COVID-19 in France, Germany, Italy and the UK. p. 139-169, Palgrave MacMillan, ISBN: 9783031993480, DOI: 10.1007/978-3-031-99349-7_4
 
 * Giulia M. Dotti Sani and Simona Guglielmi (2022). Unpacking the link between gender and corruption using survey data: A multilevel analysis of European countries. In: Ina Kubbe and Ortrun Merkle (Eds) (forthcoming). Corruption, Gender and Norms (Working Title). Edward Elgar Publishing.
 
