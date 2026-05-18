@@ -11,7 +11,9 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 **articles in journals**
 
+<span style="font-weight:bold; color:#2E86C1"> 2026 </span>
 
+* Renzo Carriero, Giulia M. Dotti Sani, G.M., Riccardo Ladini, Francesco Molteni (2026) Social norms and intentions to adopt double surnames in Italy: evidence from two survey experiments. _Genus_ 82, 7. [DOI: 10.1186/s41118-026-00286-3](https://doi.org/10.1186/s41118-026-00286-3){:target="_blank"}. OPEN ACCESS!
 <span style="font-weight:bold; color:#2E86C1"> 2025 </span>
 
 * Renzo Carriero, Giulia M. Dotti Sani (2025). Who Wants the Double Surname in Italy? An Empirical Analysis of Preferences and Behaviors, _Polis, Ricerche e studi su società e politica_, 3/2025, 349-373, [DOI: 10.1424/118537](https://www.rivisteweb.it/doi/10.1424/118537){:target="_blank"} Pre-print available [here](/pdf/CarrieroDottiSani2025preprint.pdf){:target="_blank"}.
