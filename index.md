@@ -13,7 +13,9 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 <span style="font-weight:bold; color:#2E86C1"> 2026 </span>
 
-* Renzo Carriero, Giulia M. Dotti Sani, G.M., Riccardo Ladini, Francesco Molteni (2026) Social norms and intentions to adopt double surnames in Italy: evidence from two survey experiments. _Genus_ 82, 7. [DOI: 10.1186/s41118-026-00286-3](https://doi.org/10.1186/s41118-026-00286-3){:target="_blank"}. OPEN ACCESS!
+* Giulia M. Dotti Sani, Nevena Kulic, Natalia Soboleva, and Maria Stoicescu (accepted). “The Feeling That’s Always There”: Prevalence and Correlates of Parental Guilt in Italy. _Journal of Family Research_
+
+* Renzo Carriero, Giulia M. Dotti Sani, Riccardo Ladini, Francesco Molteni (2026) Social norms and intentions to adopt double surnames in Italy: evidence from two survey experiments. _Genus_ 82, 7. [DOI: 10.1186/s41118-026-00286-3](https://doi.org/10.1186/s41118-026-00286-3){:target="_blank"}. OPEN ACCESS!
   
 <span style="font-weight:bold; color:#2E86C1"> 2025 </span>
 
