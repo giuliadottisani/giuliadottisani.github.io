@@ -210,7 +210,15 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 
 **ongoing projects**
 
-* Giulia M. Dotti Sani, Nevena Kulic, Gemma Scalise, Anne-Marie Jeannet, Maria-Valentina Stoicescu, Natalia Soboleva, Cristina Burini (planned 2027). The Price of Motherhood. Maternal Guilt in Contemporary Italy. 
+* Giulia M. Dotti Sani, Nevena Kulic, Gemma Scalise, Anne-Marie Jeannet, Maria-Valentina Stoicescu, Natalia Soboleva, Cristina Burini (planned 2027). The Price of Motherhood. Maternal Guilt in Contemporary Italy.
+  
+* Maria-Valentina, Stoicescu, Natalia Soboleva, Nevena Kulic, and Giulia Dotti Sani  Maternal Guilt: Measurement, Forms, Triggers, and Future Research Directions
+
+* Nevena Kulic, Maria-Valentina Stoicescu, Anne-Marie Jeannet, Giulia M Dotti Sani. Who Is the ‘Ideal Mother’? Italian Men's Views Across Social Class, Education, and Fatherhood
+
+* Giulia M Dotti Sani, Natalia Soboleva. Who Accepts the Rewarding but Demanding Job? Parents, Guilt and the Paradox of Ambition
+
+* Nevena Kulic, Maria-Valentina Stoicescu, Anne-Marie Jeannet, Giulia M Dotti Sani. What makes the ideal mother? An experimental analysis of personal preferences and perceived societal expectations
 
 * Giulia Dotti Sani and Jessica Rosco. The role of political ideology and religiosity in shaping attitudes towards abortion: Italy in a comparative global perspective
 
