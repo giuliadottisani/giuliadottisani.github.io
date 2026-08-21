@@ -196,6 +196,10 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **working papers**
 
+* Maria-Valentina, Stoicescu, Natalia Soboleva, Nevena Kulic, and Giulia Dotti Sani (2026). “Negotiating the Good Mother Ideal: Maternal Guilt in Contemporary Society”. SocArXiv, May 19, 2026. osf.io/preprints/socarxiv/fsjgk_v1.
+
+* Nevena Kulic, Maria-Valentina Stoicescu, Anne-Marie T Jeannet, and Giulia Dotti Sani (2026). “Perceptions of the Ideal Mother: An Experimental Investigation”. SocArXiv, May 16, 2026. osf.io/preprints/socarxiv/by9vk_v1.
+
 * Giulia M. Dotti Sani and Matteo Luppi (2017). How long is too long? Long-term effects of maternity-related job interruptions on mothers' income in ten European countries, Carlo Alberto Notebooks, No. 513, December 2017. [PDF](https://www.carloalberto.org/wp-content/uploads/2018/11/no.513.pdf){:target="_blank"}.
 
 * Nevena Kulic and Giulia M. Dotti Sani (2015). Intra-household sharing of financial resources: A non-technical review of the
@@ -206,10 +210,7 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 
 **ongoing projects**
 
-
-* Elias Naumann, Giulia Dotti Sani, Piotr Marzec, Marta Pasqualini. Comparing the social and economic impact of Covid-19 with high-quality survey data across Europe
-
-* Ariane Bertogg and Giulia Dotti Sani. To the Fifties and back again. Couples‘ Breadwinning Arrangements  Before, During and After COVID-Lockdowns in Finland and Germany
+* Giulia M. Dotti Sani, Nevena Kulic, Gemma Scalise, Anne-Marie Jeannet, Maria-Valentina Stoicescu, Natalia Soboleva, Cristina Burini (planned 2027). The Price of Motherhood. Maternal Guilt in Contemporary Italy. 
 
 * Giulia Dotti Sani and Jessica Rosco. The role of political ideology and religiosity in shaping attitudes towards abortion: Italy in a comparative global perspective
 
