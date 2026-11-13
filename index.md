@@ -178,6 +178,8 @@ Different Ages. _Sex Roles_, 74:411–421. [DOI: 10.1007/s11199-016-0585-2](http
 
 **datasets**
 
+* Dotti-Sani, Giulia Maria; Scalise, Gemma; Burini, Cristina, 2026, "MatGuilt Qualitative Interviews Guide", (https://doi.org/10.13130/RD_UNIMI/1KFWIP){:target="_blank"}, UNIMI Dataverse, V1.
+
 * Dotti-Sani, Giulia Maria; Nevena, Kulic; Jeannet, Anne-Marie; Natalia, Soboleva; Stoicescu, Maria, 2026, "Work data for: "MatGuilt Survey Dataset"", (https://doi.org/10.13130/RD_UNIMI/B6JZ54){:target="_blank"}, UNIMI Dataverse, V1, UNF:6:Vu6zVQri3NAzovJ6Xm/Q1g== [fileUNF]
   
 * Vezzoni, C., Chiesi, A.M., Biolcati, F., Dotti-Sani, G.M., Guglielmi, S., Ladini, R., Maggini, N., Maraffi, M., Molteni, F., Pedrazzani, A., Segatti, P., Moroni, M., Piacentini, F. (2023). ResPOnsE COVID-19. Cumulative file: Wave 1 to Wave 4 (English version). https://doi.org/10.13130/RD_UNIMI/W3AFKS{:target="_blank"}, UNIMI Dataverse, V1, UNF:6:aqD7nsLocfM/YU+ucspqsA== [fileUNF], UNIMI Dataverse, V1.
