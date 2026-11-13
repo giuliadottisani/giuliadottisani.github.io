@@ -14,7 +14,7 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 * Maria Stoicescu, Natalia Soboleva, Nevena Kulic and Giulia M. Dotti Sani (2026) What do we know about maternal guilt? A narrative review of its measurement, sources, and correlates. _Front. Sociol._ 11:1963417. [DOI: 10.3389/fsoc.2026.1963417](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1963417/full){:target="_blank"} OPEN ACCESS!
 
-* Giulia M. Dotti Sani, Nevena Kulic, Natalia Soboleva, and Maria Stoicescu (accepted). “The Feeling That’s Always There”: Prevalence and Correlates of Parental Guilt in Italy. _Journal of Family Research_ 38, 363–384. [DOI: 10.20377/jfr-1472](https://doi.org/10.20377/jfr-1472){:target="_blank"}. OPEN ACCESS!
+* Giulia M. Dotti Sani, Nevena Kulic, Natalia Soboleva, and Maria Stoicescu (2026). “The Feeling That’s Always There”: Prevalence and Correlates of Parental Guilt in Italy. _Journal of Family Research_ 38, 363–384. [DOI: 10.20377/jfr-1472](https://doi.org/10.20377/jfr-1472){:target="_blank"}. OPEN ACCESS!
 
 * Renzo Carriero, Giulia M. Dotti Sani, Riccardo Ladini, Francesco Molteni (2026) Social norms and intentions to adopt double surnames in Italy: evidence from two survey experiments. _Genus_ 82, 7. [DOI: 10.1186/s41118-026-00286-3](https://doi.org/10.1186/s41118-026-00286-3){:target="_blank"}. OPEN ACCESS!
   
