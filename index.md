@@ -3,7 +3,6 @@
 I am an Associate Professor in the Department of Social and Political Sciences at the University of Milano. I have a PhD in Sociology and Social Research and my main research interests are sociology of the family, female employment and social stratification. I also work on public opinion and political participation in comparative perspective. I mostly work with large individual and household surveys, both longitudinal and cross-sectional (e.g. EU-SILC, ESS, ISTAT Household Survey) and I teach quantitative methods at various levels. Below you can find a list of my publications and here a link to my [CV](DottiSani_CV_May_2026.pdf){:target="_blank"}.
 
 
-
 **projects**
 
 * Principal Investigator - Maternal guilt: Measurement, correlates, and policy solutions in the Italian context (MatGuilt). Financed by the Italian Ministry for Education under the PRIN 2022 grant scheme (Bando Prin 2022 – Decreto Direttoriale n. 104 del 02-02-2022 – Settore ERC SH3 “The Social World and Its Diversity”). [Project webpage](https://www.spstrend.it/matguilt/){:target="_blank"}.
@@ -13,7 +12,9 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 <span style="font-weight:bold; color:#2E86C1"> 2026 </span>
 
-* Giulia M. Dotti Sani, Nevena Kulic, Natalia Soboleva, and Maria Stoicescu (accepted). “The Feeling That’s Always There”: Prevalence and Correlates of Parental Guilt in Italy. _Journal of Family Research_ 38, 363–384. [DOI: 10.20377/jfr-1472](https://doi.org/10.20377/jfr-1472){:target="_blank"}. Pre-print available [here](/pdf/DottiSanietal_2026_JFR_preprint.pdf){:target="_blank"}.
+* Maria Stoicescu, Natalia Soboleva, Nevena Kulic and Giulia M. Dotti Sani (2026) What do we know about maternal guilt? A narrative review of its measurement, sources, and correlates. _Front. Sociol._ 11:1963417. [DOI: 10.3389/fsoc.2026.1963417](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2026.1963417/full){:target="_blank"} OPEN ACCESS!
+
+* Giulia M. Dotti Sani, Nevena Kulic, Natalia Soboleva, and Maria Stoicescu (accepted). “The Feeling That’s Always There”: Prevalence and Correlates of Parental Guilt in Italy. _Journal of Family Research_ 38, 363–384. [DOI: 10.20377/jfr-1472](https://doi.org/10.20377/jfr-1472){:target="_blank"}. OPEN ACCESS!
 
 * Renzo Carriero, Giulia M. Dotti Sani, Riccardo Ladini, Francesco Molteni (2026) Social norms and intentions to adopt double surnames in Italy: evidence from two survey experiments. _Genus_ 82, 7. [DOI: 10.1186/s41118-026-00286-3](https://doi.org/10.1186/s41118-026-00286-3){:target="_blank"}. OPEN ACCESS!
   
