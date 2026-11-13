@@ -5,7 +5,7 @@ I am an Associate Professor in the Department of Social and Political Sciences a
 
 **projects**
 
-* Principal Investigator - Maternal guilt: Measurement, correlates, and policy solutions in the Italian context (MatGuilt). Financed by the Italian Ministry for Education under the PRIN 2022 grant scheme (Bando Prin 2022 – Decreto Direttoriale n. 104 del 02-02-2022 – Settore ERC SH3 “The Social World and Its Diversity”). [Project webpage](https://www.spstrend.it/matguilt/){:target="_blank"}.
+* 2023-2026. Principal Investigator - Maternal guilt: Measurement, correlates, and policy solutions in the Italian context (MatGuilt). Financed by the Italian Ministry for Education under the PRIN 2022 grant scheme (Bando Prin 2022 – Decreto Direttoriale n. 104 del 02-02-2022 – Settore ERC SH3 “The Social World and Its Diversity”). [Project webpage](https://www.spstrend.it/matguilt/){:target="_blank"}.
 
 
 **articles in journals**
@@ -215,8 +215,6 @@ research field and its historical development. Munich Personal RePEc Archive, N�
 
 * Giulia M. Dotti Sani, Nevena Kulic, Gemma Scalise, Anne-Marie Jeannet, Maria-Valentina Stoicescu, Natalia Soboleva, Cristina Burini (planned 2027). The Price of Motherhood. Maternal Guilt in Contemporary Italy.
   
-* Maria-Valentina, Stoicescu, Natalia Soboleva, Nevena Kulic, and Giulia Dotti Sani  Maternal Guilt: Measurement, Forms, Triggers, and Future Research Directions
-
 * Nevena Kulic, Maria-Valentina Stoicescu, Anne-Marie Jeannet, Giulia M Dotti Sani. Who Is the ‘Ideal Mother’? Italian Men's Views Across Social Class, Education, and Fatherhood
 
 * Giulia M Dotti Sani, Natalia Soboleva. Who Accepts the Rewarding but Demanding Job? Parents, Guilt and the Paradox of Ambition
